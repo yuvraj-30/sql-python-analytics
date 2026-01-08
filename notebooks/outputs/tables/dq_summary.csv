@@ -1,6 +1,0 @@
-flag,rows
-negative_qty,0
-negative_sales,0
-zero_or_negative_price,0
-missing_customer_keys_in_dim,0
-missing_product_keys_in_dim,0
