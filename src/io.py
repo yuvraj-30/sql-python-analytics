@@ -20,6 +20,7 @@ def project_root() -> Path:
 
     Assumes this file lives in: <repo>/src/io.py
     """
+   
     return Path(__file__).resolve().parents[1]
 
 
